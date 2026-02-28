@@ -1,0 +1,29 @@
+# --- Django / Python ---
+__pycache__/
+__pycache__
+*.py[cod]
+*$py.class
+.env
+.venv
+venv/
+ENV/
+db.sqlite3/
+db.sqlite3
+db.
+/static/
+/media/
+
+# --- Vue / Node.js ---
+node_modules/
+dist/
+dist-ssr/
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.vscode/
+.idea/
+
+# --- OS System Files ---
+.DS_Store
+Thumbs.db
